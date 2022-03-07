@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @artificialbutter
-- 👀 I’m interested in mostly NodeJS, but I want to learn python.
+- 👀 I’m interested in mostly NodeJS, and I want to learn more javascript.
 - 🌱 I’m currently learning tons of things!
 - 📫 How to reach me? You can't.
 
